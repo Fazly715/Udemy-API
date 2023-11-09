@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bRs1meafj6cOin4P2aNMcHY3kdoTSdHxVWc9ZqhBPUbCbnH0Nxu4o5tG9tuAyI8DN41Yp5tNqZ9CrVAM+TVtuw==",
+  "dgSpecHash": "ijV3YNWiL0YpKkkDO4px3vgIID3UuC12ecdOsFYIUn38UMQo9Qgv8pVdO9JviQDc73WMCq68RUgCltWdBJfYbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FAZLY\\API study\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\FAZLY\\API study\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FAZLY\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\FAZLY\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",

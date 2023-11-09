@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FAZLY\\API study\\API\\API.csproj": {}
+    "C:\\Users\\FAZLY\\API study\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FAZLY\\API study\\API\\API.csproj": {
+    "C:\\Users\\FAZLY\\API study\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FAZLY\\API study\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\FAZLY\\API study\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\FAZLY\\API study\\API\\API.csproj",
+        "projectPath": "C:\\Users\\FAZLY\\API study\\api\\API.csproj",
         "packagesPath": "C:\\Users\\FAZLY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FAZLY\\API study\\API\\obj\\",
+        "outputPath": "C:\\Users\\FAZLY\\API study\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FAZLY\\AppData\\Roaming\\NuGet\\NuGet.Config",
